@@ -1,3 +1,7 @@
 《方向与开源项目候选表》
 方向≥2： 列出2-3个备选研究方向
 项目≥2： 列出2-3个候选开源项目
+
+
+工会维权
+https://github.com/CnDouglasYoung/Bibliometrics_research

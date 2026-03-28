@@ -1,0 +1,97 @@
+@article{曾正2017sic,
+  title={SiC 器件在光伏逆变器中的应用与挑战},
+  author={曾正 and 邵伟华 and 胡博容 and 陈昊 and 廖兴林 and 陈文锁 and 李辉 and 冉立},
+  journal={中国电机工程学报},
+  volume={37},
+  number={1},
+  pages={221--232},
+  year={2017}
+}
+
+@article{丁荣军2024高压大容量功率半导体器件技术及其应用,
+  title={高压大容量功率半导体器件技术及其应用},
+  author={丁荣军 and 窦泽春 and 罗海辉},
+  journal={机车电传动},
+  number={2},
+  pages={1--13},
+  year={2024},
+  publisher={机车电传动}
+}
+
+@article{黄嘉晔2020化合物半导体发展现状分析,
+  title={化合物半导体发展现状分析},
+  author={黄嘉晔 and 王轶滢 and 叶树梅 and 戴梅},
+  journal={功能材料与器件学报},
+  volume={26},
+  number={3},
+  pages={177--183},
+  year={2020}
+}
+
+@article{漆宇2016sic,
+  title={SiC 功率器件应用现状及发展趋势},
+  author={漆宇 and 李彦涌 and 胡家喜 and 范伟 and 唐威},
+  journal={大功率变流技术},
+  number={5},
+  pages={1--6},
+  year={2016}
+}
+
+@article{王俊2016sic,
+  title={SiC GTO 晶闸管技术现状及发展},
+  author={王俊 and 张渊 and 李宗鉴 and 邓林峰},
+  journal={大功率变流技术},
+  number={5},
+  pages={7--12},
+  year={2016}
+}
+
+@article{王振民2016新一代,
+  title={新一代 SiC 功率器件及其在逆变焊机中的应用},
+  author={王振民 and 王鹏飞},
+  journal={电焊机},
+  volume={46},
+  number={6},
+  pages={1--7},
+  year={2016}
+}
+
+@article{盛况2020碳化硅功率器件技术综述与展望,
+  title={碳化硅功率器件技术综述与展望},
+  author={盛况 and 任娜 and 徐弘毅},
+  journal={中国电机工程学报},
+  volume={40},
+  number={6},
+  pages={1741--1753},
+  year={2020}
+}
+
+@article{盛况2019碳化硅功率器件封装关键技术综述及展望,
+  title={碳化硅功率器件封装关键技术综述及展望},
+  author={盛况 and 董泽政 and 吴新科},
+  journal={中国电机工程学报},
+  volume={39},
+  number={19},
+  pages={5576--5584},
+  year={2019}
+}
+
+@article{何亮2016第三代半导体,
+  title={第三代半导体 GaN 功率开关器件的发展现状及面临的挑战},
+  author={何亮 and 刘扬},
+  journal={电源学报},
+  volume={14},
+  number={4},
+  pages={1--13},
+  year={2016}
+}
+
+@article{沈征2016碳化硅电力半导体器件在现代电力系统中的应用前景,
+  title={碳化硅电力半导体器件在现代电力系统中的应用前景},
+  author={沈征 and 何东 and 帅智康 and 王俊},
+  journal={南方电网技术},
+  volume={10},
+  number={5},
+  pages={94--101},
+  year={2016}
+}
